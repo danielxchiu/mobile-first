@@ -73,6 +73,11 @@ footer {
 
   #column-3 {
     background-color: cadetblue;
+    width: 100%;
+  }
+
+  .col-3 {
+    width: 50%;
   }
 
   footer {
@@ -99,6 +104,11 @@ footer {
   #column-3 {
     background-color: cornflowerblue;
   }
+
+  .col-3 {
+    width: 33%;
+  }
+
 
   footer {
     background-color: cornsilk;
